@@ -6,7 +6,7 @@ const Button = ({ children }) => {
   const handleCounter = () => setCounter(counter + 1);
 
   return (
-    <button onClick={handleCounter} style={{ backgroundColor: '#eee' }}>
+    <button onClick={handleCounter} style={{ backgroundColor: 'red' }}>
       {children}
       <span> Counter: {counter}</span>
     </button>
