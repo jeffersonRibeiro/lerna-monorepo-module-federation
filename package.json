@@ -4,12 +4,13 @@
     "packages/*"
   ],
   "scripts": {
-    "test": "lerna run test",
+    "start": "lerna run start --scope={@julius/admin,@julius/shareablebag}",
     "new-version": "lerna version --conventional-commits",
-    "diff": "lerna diff"
+    "clean": "lerna exec --parallel -- rimraf node_modules"
   },
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "rimraf": "^3.0.2"
   },
   "name": "lerna-monorepo"
 }

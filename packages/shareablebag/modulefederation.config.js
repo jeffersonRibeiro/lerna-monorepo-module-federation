@@ -4,6 +4,7 @@ module.exports = {
   name: 'shareablebag',
   exposes: {
     './Button': './src/components/Button',
+    './App': './src/App',
   },
   filename: 'remoteEntry.js',
   shared: {
