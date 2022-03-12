@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/admin@0.5.0...@julius/admin@0.5.1) (2022-03-12)
+
+**Note:** Version bump only for package @julius/admin
+
+
+
+
+
 # [0.5.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/admin@0.4.1...@julius/admin@0.5.0) (2022-03-12)
 
 
