@@ -1,5 +1,9 @@
+import { useCounter } from '@julius/common';
+
 const Button = () => {
-  return <button onClick={() => alert('minha nossa')}>Olá federation 1</button>;
+  const { counter, count } = useCounter();
+
+  return <button onClick={() => count()}>Olá federation {counter}</button>;
 };
 
 export default Button;
