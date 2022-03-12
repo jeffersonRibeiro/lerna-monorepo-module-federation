@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/admin@0.4.1...@julius/admin@0.5.0) (2022-03-12)
+
+
+### Features
+
+* cross context with module federation test ([5a5477b](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/commit/5a5477b8583d0e07ef45e79df80765040b83970a))
+
+
+
+
+
 ## [0.4.1](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/admin@0.4.0...@julius/admin@0.4.1) (2022-03-12)
 
 **Note:** Version bump only for package @julius/admin
