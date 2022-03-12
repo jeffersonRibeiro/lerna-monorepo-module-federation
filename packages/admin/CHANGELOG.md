@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/jeffersonRibeiro/lerna-monorepo/compare/@julius/admin@0.3.0...@julius/admin@0.4.0) (2022-03-12)
+
+
+### Features
+
+* module federation config complete ([ad000e3](https://github.com/jeffersonRibeiro/lerna-monorepo/commit/ad000e37e13910c22932e45fc3af0821aad86fcb))
+
+
+
+
+
 # [0.3.0](https://github.com/jeffersonRibeiro/lerna-monorepo/compare/@julius/admin@0.2.1...@julius/admin@0.3.0) (2022-03-11)
 
 
