@@ -1,9 +1,7 @@
-import { useCounter } from '@julius/common';
-
 const Button = () => {
-  const { counter, count } = useCounter();
-
-  return <button onClick={() => count()}>Olá federation {counter}</button>;
+  return (
+    <button onClick={() => alert('Hello from shareablebag')}>Share bag</button>
+  );
 };
 
 export default Button;
