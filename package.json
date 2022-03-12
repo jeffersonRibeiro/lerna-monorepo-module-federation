@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "lerna run start --scope={@julius/admin,@julius/shareablebag}",
+    "start": "lerna run start --parallel --scope={@julius/admin,@julius/shareablebag}",
     "new-version": "lerna version --conventional-commits",
     "clean": "lerna exec --parallel -- rimraf node_modules"
   },
