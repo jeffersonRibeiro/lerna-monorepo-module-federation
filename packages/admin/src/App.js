@@ -1,5 +1,4 @@
 import { Button } from '@julius/common';
-import ShareablebagButton from 'shareablebag/Button';
 import ShareablebagApp from 'shareablebag/App';
 
 function App() {
@@ -11,7 +10,6 @@ function App() {
       </div>
       <div style={{ backgroundColor: 'grey' }}>
         <p>Shareablebag app</p>
-        <ShareablebagButton />
         <ShareablebagApp />
       </div>
     </div>
