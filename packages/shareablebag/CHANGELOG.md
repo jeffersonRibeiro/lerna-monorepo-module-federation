@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/shareablebag@0.4.3...@julius/shareablebag@0.5.0) (2022-03-14)
+
+
+### Features
+
+* change button text ([7957d5c](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/commit/7957d5c62d10403e68ef67a96a7a55ee2cdfd49e))
+
+
+
+
+
 ## [0.4.3](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/shareablebag@0.4.2...@julius/shareablebag@0.4.3) (2022-03-13)
 
 **Note:** Version bump only for package @julius/shareablebag
