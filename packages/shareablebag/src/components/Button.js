@@ -1,6 +1,8 @@
 const Button = () => {
   return (
-    <button onClick={() => alert('Hello from shareablebag')}>Share bag</button>
+    <button onClick={() => alert('Hello from shareablebag')}>
+      Share bag adicionar produto dashdghjgdsagjdh
+    </button>
   );
 };
 
