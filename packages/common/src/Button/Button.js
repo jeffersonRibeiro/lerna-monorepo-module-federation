@@ -8,7 +8,7 @@ const Button = ({ children }) => {
   return (
     <button onClick={handleCounter} style={{ backgroundColor: 'red' }}>
       {children}
-      <span> Counter: {counter}</span>
+      <span> Counter testando: {counter}</span>
     </button>
   );
 };
