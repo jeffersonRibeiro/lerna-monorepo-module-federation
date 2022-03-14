@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/common@0.4.2...@julius/common@0.5.0) (2022-03-14)
+
+
+### Features
+
+* xablau ([7885b57](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/commit/7885b57d138b810b2b9de3dda792c350e5ad6cd5))
+
+
+
+
+
 ## [0.4.2](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/common@0.4.1...@julius/common@0.4.2) (2022-03-13)
 
 **Note:** Version bump only for package @julius/common
