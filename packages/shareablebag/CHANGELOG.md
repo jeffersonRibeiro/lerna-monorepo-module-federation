@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/v0.7.0...v0.8.0) (2022-03-15)
+
+**Note:** Version bump only for package @julius/shareablebag
+
+
+
+
+
 # [0.7.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/v1.0.3...v0.7.0) (2022-03-15)
 
 
