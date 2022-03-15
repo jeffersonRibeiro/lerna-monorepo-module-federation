@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/common@0.5.0...@julius/common@0.6.0) (2022-03-15)
+
+
+### Features
+
+* change common button ([61a30b4](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/commit/61a30b4b85f6ec03fe4bbc5044928854d9e06b58))
+
+
+
+
+
 # [0.5.0](https://github.com/jeffersonRibeiro/lerna-monorepo-module-federation/compare/@julius/common@0.4.2...@julius/common@0.5.0) (2022-03-14)
 
 
