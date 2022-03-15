@@ -1,6 +1,6 @@
 {
   "name": "@julius/common",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "private": true,
   "main": "./src/index.js",
   "dependencies": {
